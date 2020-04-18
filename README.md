@@ -14,6 +14,7 @@ and click "import" in the text "Or import a previously created profile"
 select the file you downloaded
 
 and the pack should be installing automtically
+
 ---
 ## ATLauncher
 go to "Instances"
@@ -27,6 +28,7 @@ Select the file you downloaded
 Click "Add"
 
 And click "Install"
+
 ---
 # Important
 note that even though you can play this pack it doesn't mean it is out of beta, this just means that the pack is considered "stable" enough for a broader audience to play
